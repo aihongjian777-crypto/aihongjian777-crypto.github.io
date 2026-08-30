@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: '艾宏建'
+date: 2002-10-06
 type: landing
 
 # Note: `username` refers to the user's folder name in `content/authors/`
@@ -12,7 +12,7 @@ sections:
       username: me
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: 下载个人简历
         url: uploads/resume.pdf
     design:
       show_status: false
