@@ -1,4 +1,4 @@
-# [The Online Resume That Lands Interviews](https://github.com/HugoBlox/hugo-theme-resume)
+ # [The Online Resume That Lands Interviews](https://github.com/HugoBlox/hugo-theme-resume)
 
 [![Screenshot](.github/preview.png)](https://hugoblox.com/templates/resume?utm_source=github&utm_medium=readme&utm_content=preview)
 
