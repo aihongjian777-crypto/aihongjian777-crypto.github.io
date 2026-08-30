@@ -1,13 +1,13 @@
 ---
 # 显示的真实姓名
-title:艾宏建
+title: 艾宏建
 
 # 头衔/职位
 role: Computer Vision Researcher
 
 # 所属机构 (如果没有可以把这两行删掉)
 organizations:
-  - name:辽宁工程技术大学
+  - name: 辽宁工程技术大学
     url: ''
 
 # 一句话简介
